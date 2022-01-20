@@ -24,14 +24,14 @@ Objects are assigned to *variables*. A variable is a symbolic name that is a ref
 3. Introduction to Python for data analysis: Object-oriented programming
 4. Introduction to Python for data analysis: Helpful tips and modules
 
-For those which wish to learn more about Python, there is an extension of this tutorial that is composed of different Python modules targetting aspects not covered on the main course (which can be found in the 'Python-tutorial-extension/' folder).
+For those which wish to learn more about Python, there is an extension of this tutorial that is composed of different Python modules targetting aspects not covered on the main course (which can be found in the 'Python-tutorial-extension/' folder: coming soon!).
 
 ## How to open Jupyter notebooks (Linux, Windows, macOS)?
 
 **TODO**
 
-# Linux
+### Linux
 
-# Windows
+### Windows
 
-# macOS
+### macOS
