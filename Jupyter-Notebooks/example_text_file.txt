@@ -1,0 +1,2 @@
+This is an example text file containing two lines.
+This is a second line of text.

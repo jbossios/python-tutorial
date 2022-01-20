@@ -19,7 +19,7 @@ Objects are assigned to *variables*. A variable is a symbolic name that is a ref
 
 <u>**This tutorial is divided into four notebooks (which can be found in the 'Jupyter-Notebooks/' folder) targeting different aspects:**</u>
 
-1. Introduction to Python for data analysis: Basics (<u>current one</u>)
+1. Introduction to Python for data analysis: Basics
 2. Introduction to Python for data analysis: Functions
 3. Introduction to Python for data analysis: Object-oriented programming
 4. Introduction to Python for data analysis: Helpful tips and modules
