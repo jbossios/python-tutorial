@@ -26,6 +26,8 @@ Objects are assigned to *variables*. A variable is a symbolic name that is a ref
 
 For those which wish to learn more about Python, there is an extension of this tutorial that is composed of different Python modules targetting aspects not covered on the main course (which can be found in the 'Python-tutorial-extension/' folder: coming soon!).
 
+If you like this course/tutorial, please consider giving me a star!
+
 ## How to open Jupyter notebooks (Linux, Windows, macOS)?
 
 **TODO**
