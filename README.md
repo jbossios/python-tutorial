@@ -28,12 +28,16 @@ For those which wish to learn more about Python, there is an extension of this t
 
 If you like this course/tutorial, please consider giving me a star!
 
-## How to open Jupyter notebooks (Linux, Windows, macOS)?
-
-**TODO**
+## How to install Jupyter notebook (Linux, Windows, macOS)?
 
 ### Linux
 
+Follow the instructions [here](https://www.geeksforgeeks.org/how-to-install-jupyter-notebook-on-macos/)
+
 ### Windows
 
+Follow the instructions [here](https://medium.com/@kswalawage/install-python-and-jupyter-notebook-to-windows-10-64-bit-66db782e1d02)
+
 ### macOS
+
+Follow the instructions [here](https://www.geeksforgeeks.org/how-to-install-jupyter-notebook-on-macos/)
