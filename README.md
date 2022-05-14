@@ -19,14 +19,16 @@ Objects are assigned to *variables*. A variable is a symbolic name that is a ref
 
 <u>**This tutorial is divided into four notebooks (which can be found in the 'Jupyter-Notebooks/' folder) targeting different aspects:**</u>
 
-1. Introduction to Python for data analysis: Basics
-2. Introduction to Python for data analysis: Functions
-3. Introduction to Python for data analysis: Object-oriented programming
-4. Introduction to Python for data analysis: Helpful tips and modules
+1. [Introduction to Python for data analysis: Basics](https://nbviewer.org/github/jbossios/python-tutorial/blob/master/Jupyter-Notebooks/01_Introduction_Basics.ipynb)
+2. [Introduction to Python for data analysis: Functions](https://nbviewer.org/github/jbossios/python-tutorial/blob/master/Jupyter-Notebooks/02_Introduction_Functions.ipynb)
+3. [Introduction to Python for data analysis: Object-oriented programming](https://nbviewer.org/github/jbossios/python-tutorial/blob/master/Jupyter-Notebooks/03_Introduction_Classes.ipynb)
+4. [Introduction to Python for data analysis: Helpful tips and modules](https://nbviewer.org/github/jbossios/python-tutorial/blob/master/Jupyter-Notebooks/04_Helpful_tips_and_modules.ipynb)
 
 For those which wish to learn more about Python, there is an extension of this tutorial that is composed of different Python modules targetting aspects not covered on the main course (which can be found in the 'Python-tutorial-extension/' folder: coming soon!).
 
-If you like this course/tutorial, please consider giving me a star!
+*If you like this course/tutorial, please consider giving me a star!*
+
+**Note:** If you experience problems loading the notebooks on Github, I recommend you to use [nbviewer](https://nbviewer.org/). You just need to past the URL link and press "Go!", and the notebook will be displayed without problems.
 
 ## How to install Jupyter notebook (Linux, Windows, macOS)?
 
