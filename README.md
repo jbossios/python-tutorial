@@ -28,7 +28,7 @@ For those which wish to learn more about Python, there is an extension of this t
 
 *If you like this course/tutorial, please consider giving me a star!*
 
-**Note:** If you experience problems loading the notebooks on Github, I recommend you to use [nbviewer](https://nbviewer.org/). You just need to past the URL link and press "Go!", and the notebook will be displayed without problems.
+**Note:** If you experience problems loading the notebooks on Github, I recommend you to use [nbviewer](https://nbviewer.org/). You just need to paste the URL link and press "Go!", and the notebook will be displayed without problems.
 
 ## How to install Jupyter notebook (Linux, Windows, macOS)?
 
