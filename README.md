@@ -23,6 +23,7 @@ Objects are assigned to *variables*. A variable is a symbolic name that is a ref
 2. [Introduction to Python for data analysis: Functions](https://nbviewer.org/github/jbossios/python-tutorial/blob/master/Jupyter-Notebooks/02_Introduction_Functions.ipynb)
 3. [Introduction to Python for data analysis: Object-oriented programming](https://nbviewer.org/github/jbossios/python-tutorial/blob/master/Jupyter-Notebooks/03_Introduction_Classes.ipynb)
 4. [Introduction to Python for data analysis: Helpful tips and modules](https://nbviewer.org/github/jbossios/python-tutorial/blob/master/Jupyter-Notebooks/04_Helpful_tips_and_modules.ipynb)
+5. Introduction to Python for data analysis: NumPy and Pandas (coming soon!)
 
 For those which wish to learn more about Python, there is an extension of this tutorial that is composed of different Python modules targetting aspects not covered on the main course (which can be found in the 'Python-tutorial-extension/' folder: coming soon!).
 
