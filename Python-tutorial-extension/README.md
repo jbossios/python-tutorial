@@ -2,13 +2,19 @@
 
 Do you still want to learn more things? Here there are a few things that can't not miss:
 
-## Find other useful decorators with Decorators/README.md
+## Find other useful decorators
 
-## Learn how to make a python package with How_To_Make_A_Package/README.md
+See [Decorators/README.md](https://github.com/jbossios/python-tutorial/tree/master/Python-tutorial-extension/Decorators/README.md)
 
-## Learn how to parse command-line arguments/options with How_To_Parse_CommandLine_Options/README.md
+## Learn how to make a python package
 
-NOTE: In many of the python modules available in this extension, you fill find the following condition:
+See [How_To_Make_A_Package/README.md](https://github.com/jbossios/python-tutorial/tree/master/Python-tutorial-extension/How_To_Make_A_Package/README.md)
+
+## Learn how to parse command-line arguments/options
+
+See [How_To_Parse_CommandLine_Options/README.md](https://github.com/jbossios/python-tutorial/tree/master/Python-tutorial-extension/How_To_Parse_CommandLine_Options/README.md)
+
+**NOTE:** In many of the python modules available in this extension, you fill find the following condition:
 
 ```
 if __name__ == '__main__'

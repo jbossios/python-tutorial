@@ -2,6 +2,7 @@
 
 In this example, there is a package titled "MyPackage" which has the following content:
 
+```
 MyPackage/
 ├── __init__.py
 └── example_subpackage/
@@ -9,6 +10,7 @@ MyPackage/
     └── main.py
 └── tests/
     └── test_package.py
+```
 
 MyPackage currently has two folders:
 - A single subpackage called "example_subpackage"
@@ -38,9 +40,9 @@ from MyPackage.package.main import main as sqrt
 
 as used in ```use_package.py``` located outside MyPackage/.
 
-# How to implement a tester using pytest
+# How to implement a test using pytest
 
-In the folder named ```tests/```, there is a file title ```test_package.py``` which makes sure that main() from example_subpackage is implemented correctly. One could simply run ```python test_package.py``` or could do ```pytest``` and would see the following:
+In the folder named ```tests/```, there is a file titled ```test_package.py``` which makes sure that main() from example_subpackage is implemented correctly. One could simply run ```python test_package.py``` inside the test/ folder. Alternatively, we can use pytest (within the MyPackage/ folder), i.e. run ```pytest``` and we would see the following:
 
 ```
 =============================================================================================== test session starts ===============================================================================================
@@ -54,5 +56,5 @@ test_package.py .                                                               
 ================================================================================================ 1 passed in 0.01s ================================================================================================
 ```
 
-NOTE: to install pytest, please do ```pip install pytest``` 
+**NOTE:** to install pytest, please do ```pip install pytest``` 
 
