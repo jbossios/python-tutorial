@@ -17,7 +17,7 @@ See [How_To_Parse_CommandLine_Options/README.md](https://github.com/jbossios/pyt
 **NOTE:** In many of the python modules available in this extension, you fill find the following condition:
 
 ```
-if __name__ == '__main__'
+if __name__ == '__main__':
 ```
 
 The above expression is only ```True``` when doing ```python MODULE_NAME.py```. This condition is ```False``` when import the ```MODULE_NAME.py``` module.
