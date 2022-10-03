@@ -42,7 +42,7 @@ as used in ```use_package.py``` located outside MyPackage/.
 
 # How to implement a test using pytest
 
-In the folder named ```tests/```, there is a file titled ```test_package.py``` which makes sure that main() from example_subpackage is implemented correctly. One could simply run ```python test_package.py``` or could do ```pytest``` and would see the following:
+In the folder named ```tests/```, there is a file titled ```test_package.py``` which makes sure that main() from example_subpackage is implemented correctly. One could simply run ```python test_package.py``` inside the test/ folder. Alternatively, we can use pytest (within the MyPackage/ folder), i.e. run ```pytest``` and we would see the following:
 
 ```
 =============================================================================================== test session starts ===============================================================================================
@@ -56,5 +56,5 @@ test_package.py .                                                               
 ================================================================================================ 1 passed in 0.01s ================================================================================================
 ```
 
-NOTE: to install pytest, please do ```pip install pytest``` 
+**NOTE:** to install pytest, please do ```pip install pytest``` 
 
