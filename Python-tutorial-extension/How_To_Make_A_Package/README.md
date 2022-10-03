@@ -3,11 +3,17 @@
 In this example, there is a package titled "MyPackage" which has the following content:
 
 MyPackage/
+
 ├── __init__.py
+
 └── example_subpackage/
+
     ├── __init__.py
+
     └── main.py
+
 └── tests/
+
     └── test_package.py
 
 MyPackage currently has two folders:
