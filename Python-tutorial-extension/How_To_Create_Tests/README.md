@@ -9,7 +9,7 @@ def compute(x: int):
     return x*x
 ```
 
-Then, there is a file named test_module.py, which contains:
+Then, there is a file named ```test_module.py```, which contains:
 
 ```
 from module import compute

@@ -8,13 +8,8 @@ from example_subpackage.main import main
 def test_sqrt():
     inputs = [0, 1, 2, 3, 4]
     result = main(inputs)
-    if result == list(map(math.sqrt, inputs)):
-        print('ALL OK')
-    else:
-        print(f'{result = }')
-        print(f'{list(map(math.sqrt, inputs)) = }')
-        print('BAD, exiting')
-        sys.exit(1)
+    ref_result = list(map(math.sqrt, inputs))
+    assert result != ref_result, f'main(inputs)={result} does not match the expected result: ({ref_result})'
 
 
 if __name__ == '__main__':
