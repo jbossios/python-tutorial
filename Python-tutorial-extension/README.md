@@ -6,6 +6,10 @@ Do you still want to learn more things? Here there are a few things that can't n
 
 See [Decorators/README.md](https://github.com/jbossios/python-tutorial/tree/master/Python-tutorial-extension/Decorators/README.md)
 
+## How to create tests using pytest
+
+See [How_To_Create_Tests/README.md](https://github.com/jbossios/python-tutorial/tree/master/Python-tutorial-extension/How_To_Create_Tests/README.md)
+
 ## Learn how to make a python package
 
 See [How_To_Make_A_Package/README.md](https://github.com/jbossios/python-tutorial/tree/master/Python-tutorial-extension/How_To_Make_A_Package/README.md)
