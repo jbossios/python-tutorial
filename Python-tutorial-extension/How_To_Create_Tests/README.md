@@ -1,10 +1,8 @@
 # How to implement a test using pytest
 
-The only thing you need to do is to create a file in the form of ```test_*.py``` or ```*_test.py``` containing a function starting with ```test_```. Those functions are meant for testing something in your scripts/packages. You can use the ```assert``` statement to test if given assumptions are true. Then, pytest will look for such files/functions in the current directory and its subdirectories and run them for you.
+The only thing you need to do is to create a file in the form of ```test_*.py``` or ```*_test.py``` containing a function starting with ```test_```. Those functions are meant for testing something in your scripts/packages. You can use the ```assert``` statement to test if given assumptions are true. Then, ```pytest``` will look for such files/functions in the current directory and its subdirectories and run them for you.
 
 In the current directory, you can find the ```module.py``` file contining:
-
-there is a file titled ```test_package.py``` which makes sure that main() from example_subpackage is implemented correctly. One could simply run ```python test_package.py``` inside the test/ folder. Alternatively, we can use pytest (within the MyPackage/ folder), i.e. run ```pytest``` (or ```python -m pytest```) and we would see the following:
 
 ```
 def compute(x: int):
@@ -42,4 +40,4 @@ test_module.py .                                                                
 ================================================================================================ 1 passed in 0.01s ================================================================================================
 ```
 
-You can find more information about pytest [here](https://docs.pytest.org/en/7.1.x/)
+You can find more information about ```pytest``` [here](https://docs.pytest.org/en/7.1.x/)
