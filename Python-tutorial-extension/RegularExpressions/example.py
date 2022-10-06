@@ -1,5 +1,4 @@
 import re
-from traceback import extract_tb
 
 
 def extract_email_addresses(string: str) -> [str]:
