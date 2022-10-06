@@ -18,6 +18,10 @@ See [How_To_Make_A_Package/README.md](https://github.com/jbossios/python-tutoria
 
 See [How_To_Parse_CommandLine_Options/README.md](https://github.com/jbossios/python-tutorial/tree/master/Python-tutorial-extension/How_To_Parse_CommandLine_Options/README.md)
 
+## How to use regular expressions in Python
+
+See [RegularExpressions/README.md](https://github.com/jbossios/python-tutorial/tree/master/Python-tutorial-extension/RegularExpressions/README.md)
+
 **NOTE:** In many of the python modules available in this extension, you fill find the following condition:
 
 ```
