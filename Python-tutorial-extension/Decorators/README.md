@@ -4,7 +4,7 @@ Decorators were introduced in [02_Introduction_Functions.ypynb](https://nbviewer
 
 ## cache from functools
 
-Whenever a given computation could be used several times, it would be helpful to keep track of already computed calculations to speed up your code. For such occasions, the cache decorator becomes super helpful.
+Whenever a given computation could be used several times, it would be helpful to keep track of already computed calculations to speed up your code. For such occasions, the cache decorator becomes super helpful (available since Python3.9).
 
 It is very easy to use, you just need to import cache from functools, i.e. ```from functools import cache``` and then apply the cache decorator to any function, for example:
 
