@@ -1,7 +1,5 @@
 # How to create a package?
 
-#Add separated folder about pytest? (talk about alternatives?) Link documentation for pytest
-
 In some cases, one would like to use some modules across different projects or simply have things more organized. In such cases, one can create a package. Let's take a look at the following example where there is a package titled "MyPackage" which has the following content:
 
 ```

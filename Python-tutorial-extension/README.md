@@ -1,6 +1,6 @@
 # Python-tutorial-extension
 
-Do you still want to learn more things? Here there are a few things that can't not miss:
+Do you still want to learn more things? Here there are a few things that you can't miss:
 
 ## Find other useful decorators
 
