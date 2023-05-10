@@ -6,6 +6,8 @@
     
 > <div align='center'>No prior programming experience is needed but some basic notions of mathematics are recommended</div>
 
+> <div align='center'>Most modules include exercises and their solutions, so don't miss the chance to put things into practice!</div>
+
 [Python](https://docs.python.org/3.8/) is a high-level, object-oriented programming language that works on many platforms (Linux, macOS, Windows, Raspberry Pi, etc). It's easy to learn and can pretty much be used for anything, some examples are:
 
 - Web development
@@ -23,7 +25,7 @@ Objects are assigned to *variables*. A variable is a symbolic name that is a ref
 2. [Introduction to Python for data analysis: Functions](https://nbviewer.org/github/jbossios/python-tutorial/blob/master/Jupyter-Notebooks/02_Introduction_Functions.ipynb)
 3. [Introduction to Python for data analysis: Object-oriented programming](https://nbviewer.org/github/jbossios/python-tutorial/blob/master/Jupyter-Notebooks/03_Introduction_Classes.ipynb)
 4. [Introduction to Python for data analysis: Helpful tips and modules](https://nbviewer.org/github/jbossios/python-tutorial/blob/master/Jupyter-Notebooks/04_Helpful_tips_and_modules.ipynb)
-5. Introduction to Python for data analysis: NumPy and Pandas (coming soon!)
+5. [Introduction to Python for data analysis: NumPy and Pandas](https://nbviewer.org/github/jbossios/python-tutorial/blob/master/Jupyter-Notebooks/05_NumPy_and_pandas.ipynb)
 
 For those which wish to learn more about Python, there is an extension of this tutorial that is composed of different Python modules targetting aspects not covered on the main course (which can be found in the 'Python-tutorial-extension/' folder: [link](https://github.com/jbossios/python-tutorial/tree/master/Python-tutorial-extension/README.md)).
 
