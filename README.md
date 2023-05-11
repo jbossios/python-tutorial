@@ -19,7 +19,7 @@ Everything in Python is an *object* of an specific type or class. Objects contai
 
 Objects are assigned to *variables*. A variable is a symbolic name that is a reference (or pointer) to an object, but the data itself is still contained within the object.
 
-<u>**This tutorial is divided into four notebooks (which can be found in the 'Jupyter-Notebooks/' folder) targeting different aspects:**</u>
+<u>**This tutorial is divided into five notebooks/modules (which can be found in the 'Jupyter-Notebooks/' folder) targeting different aspects:**</u>
 
 1. [Introduction to Python for data analysis: Basics](https://nbviewer.org/github/jbossios/python-tutorial/blob/master/Jupyter-Notebooks/01_Introduction_Basics.ipynb)
 2. [Introduction to Python for data analysis: Functions](https://nbviewer.org/github/jbossios/python-tutorial/blob/master/Jupyter-Notebooks/02_Introduction_Functions.ipynb)
