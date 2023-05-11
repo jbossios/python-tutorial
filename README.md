@@ -46,3 +46,19 @@ Follow the instructions [here](https://medium.com/@kswalawage/install-python-and
 ### macOS
 
 Follow the instructions [here](https://www.geeksforgeeks.org/how-to-install-jupyter-notebook-on-macos/)
+
+## How to download the course (notebooks and extra material)?
+
+At the top of this page, you can see a green button (left to the About section) saying ```<> Code```, click it and then clik on ```Download ZIP```. Below you can find instructions on how to unzip the downloaded file on every OS.
+
+### How to unzip downloaded file on Linux?
+
+Follow the instructions [here](https://linuxize.com/post/how-to-unzip-files-in-linux/)
+
+### How to unzip downloaded file on Windows?
+
+Follow the instructions [here](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc)
+
+### How to unzip downloaded file on macOS?
+
+Follow the instructions [here](https://support.apple.com/guide/mac-help/zip-and-unzip-files-and-folders-on-mac-mchlp2528/mac)
