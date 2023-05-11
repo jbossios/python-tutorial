@@ -37,7 +37,7 @@ For those who wish to learn more about Python, there is an extension of this tut
 
 ### Linux
 
-Follow the instructions [here](https://www.geeksforgeeks.org/how-to-install-jupyter-notebook-on-macos/)
+Follow the instructions [here](https://linuxhint.com/install-jupyter-notebook-on-ubuntu-20-04/)
 
 ### Windows
 
