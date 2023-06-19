@@ -28,4 +28,4 @@ See [RegularExpressions/README.md](https://github.com/jbossios/python-tutorial/t
 if __name__ == '__main__':
 ```
 
-The above expression is only ```True``` when doing ```python MODULE_NAME.py```. This condition is ```False``` when import the ```MODULE_NAME.py``` module.
+The above expression is only ```True``` when doing ```python MODULE_NAME.py```. This condition is ```False``` when importing the ```MODULE_NAME.py``` module.
