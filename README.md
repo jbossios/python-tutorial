@@ -30,9 +30,9 @@ Objects are assigned to *variables*. A variable is a symbolic name that is a ref
 1. [Introduction to Python for data analysis: Basics](https://nbviewer.org/github/jbossios/python-tutorial/blob/master/Jupyter-Notebooks/01_Introduction_Basics.ipynb)
 2. [Introduction to Python for data analysis: Functions](https://nbviewer.org/github/jbossios/python-tutorial/blob/master/Jupyter-Notebooks/02_Introduction_Functions.ipynb)
 3. [Introduction to Python for data analysis: Object-oriented programming](https://nbviewer.org/github/jbossios/python-tutorial/blob/master/Jupyter-Notebooks/03_Introduction_Classes.ipynb)
-4. [Introduction to Python for data analysis: NumPy and Pandas](https://nbviewer.org/github/jbossios/python-tutorial/blob/master/Jupyter-Notebooks/04_NumPy_and_pandas.ipynb)
-5. [Introduction to Python for data analysis: Data Visualization](https://nbviewer.org/github/jbossios/python-tutorial/blob/master/Jupyter-Notebooks/05_Data_Visualization.ipynb)
-6. [Introduction to Python for data analysis: Helpful tips and modules](https://nbviewer.org/github/jbossios/python-tutorial/blob/master/Jupyter-Notebooks/06_Helpful_tips_and_modules.ipynb)
+4. [Introduction to Python for data analysis: NumPy and Pandas](https://github.com/jbossios/python-tutorial/blob/master/Jupyter-Notebooks/04_NumPy_and_pandas.ipynb)
+5. [Introduction to Python for data analysis: Data Visualization](https://github.com/jbossios/python-tutorial/blob/master/Jupyter-Notebooks/05_Data_Visualization.ipynb)
+6. [Introduction to Python for data analysis: Helpful tips and modules](https://github.com/jbossios/python-tutorial/blob/master/Jupyter-Notebooks/06_Helpful_tips_and_modules.ipynb)
 
 For those who wish to learn more about Python, there is an extension of this course that is composed of different Python modules targetting aspects not covered on the main course (which can be found in the 'Python-tutorial-extension/' folder: [link](https://github.com/jbossios/python-tutorial/tree/master/Python-tutorial-extension/README.md)).
 
