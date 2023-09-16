@@ -46,7 +46,7 @@ There are two ways in which you could take this course:
 
 I strongly recommend using a Jupyter notebook in your laptop to be able to play and code throughout the course. This way, you will be able to do the exercises directly in the notebook and test them to see if they work as intended. Please follow the instructions below to install Jupyter notebook and download the content of the course.
 
-#### How to install Python?
+#### How to install Python (Linux, Windows, macOS)?
 
 Follow the instructions [here](https://wiki.python.org/moin/BeginnersGuide/Download).
 
@@ -54,15 +54,15 @@ Follow the instructions [here](https://wiki.python.org/moin/BeginnersGuide/Downl
 
 ###### Linux
 
-Follow the instructions [here](https://linuxhint.com/install-jupyter-notebook-on-ubuntu-20-04/)
+Follow the instructions [here](https://linuxhint.com/install-jupyter-notebook-on-ubuntu-20-04/).
 
 ##### Windows
 
-Follow the instructions [here](https://medium.com/@kswalawage/install-python-and-jupyter-notebook-to-windows-10-64-bit-66db782e1d02)
+Follow the instructions [here](https://medium.com/@kswalawage/install-python-and-jupyter-notebook-to-windows-10-64-bit-66db782e1d02).
 
 ##### macOS
 
-Follow the instructions [here](https://www.geeksforgeeks.org/how-to-install-jupyter-notebook-on-macos/)
+Follow the instructions [here](https://www.geeksforgeeks.org/how-to-install-jupyter-notebook-on-macos/).
 
 #### How to download the course (notebooks and extra material)?
 
@@ -72,15 +72,15 @@ If you are already familiar with Git, you could clone the repository, if not, fo
 
 ##### How to unzip downloaded file on Linux?
 
-Follow the instructions [here](https://linuxize.com/post/how-to-unzip-files-in-linux/)
+Follow the instructions [here](https://linuxize.com/post/how-to-unzip-files-in-linux/).
 
 ##### How to unzip downloaded file on Windows?
 
-Follow the instructions [here](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc)
+Follow the instructions [here](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc).
 
 ##### How to unzip downloaded file on macOS?
 
-Follow the instructions [here](https://support.apple.com/guide/mac-help/zip-and-unzip-files-and-folders-on-mac-mchlp2528/mac)
+Follow the instructions [here](https://support.apple.com/guide/mac-help/zip-and-unzip-files-and-folders-on-mac-mchlp2528/mac).
 
 
 ### Passive
