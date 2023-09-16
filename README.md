@@ -46,6 +46,10 @@ There are two ways in which you could take this course:
 
 I strongly recommend using a Jupyter notebook in your laptop to be able to play and code throughout the course. This way, you will be able to do the exercises directly in the notebook and test them to see if they work as intended. Please follow the instructions below to install Jupyter notebook and download the content of the course.
 
+#### How to install Python?
+
+Follow the instructions [here](https://wiki.python.org/moin/BeginnersGuide/Download).
+
 #### How to install Jupyter notebook (Linux, Windows, macOS)?
 
 ###### Linux
