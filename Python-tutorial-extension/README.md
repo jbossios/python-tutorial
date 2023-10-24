@@ -22,6 +22,10 @@ See [How_To_Parse_CommandLine_Options/README.md](https://github.com/jbossios/pyt
 
 See [RegularExpressions/README.md](https://github.com/jbossios/python-tutorial/tree/master/Python-tutorial-extension/RegularExpressions/README.md)
 
+## Parallelization
+
+See [Parallelization/README.md](https://github.com/jbossios/python-tutorial/tree/master/Python-tutorial-extension/Parallelization/README.md)
+
 **NOTE:** In many of the python modules available in this extension, you fill find the following condition:
 
 ```
