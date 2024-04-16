@@ -29,13 +29,13 @@ def main(list_numbers: List[Union[int, float]]) -> List[Union[int, float]]:
 The additional ```__init__.py``` file within MyPackage/ contains:
 
 ```
-from .package.main import main
+from .example_subpackage.main import main
 ```
 
 This allows to import main from outside the MyPackage folder, i.e. to do the following:
 
 ```
-from MyPackage.package.main import main as sqrt
+from MyPackage.example_subpackage.main import main as sqrt
 ```
 
 as used in ```use_package.py``` located outside MyPackage/.
