@@ -1,7 +1,7 @@
 import re
 
 
-def extract_email_addresses(string: str) -> [str]:
+def extract_email_addresses(string: str) -> list[str]:
     pattern = "[\w.+-]+@[-\w]+\.[-\w.]+"  # alternatively one could use "[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+"
     return re.findall(pattern, string)
 
