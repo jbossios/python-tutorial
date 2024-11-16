@@ -1,6 +1,6 @@
 # <div align='center'>Python course for data analysis</div>
 
-> <div align='center'> The following course is based on Python 3.8, but some interesting features available on newer versions are occasionally mentioned throughout the tutorial</div>
+> <div align='center'> The following course is based on Python 3.10</div>
 
 > <div align='center'>This course is meant for beginners but also experienced programmers that wish to expand their knowledge</div>
     
